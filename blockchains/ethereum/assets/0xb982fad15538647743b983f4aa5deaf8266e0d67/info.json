@@ -1,0 +1,24 @@
+{
+    "name": "Big Point",
+    "website": "https://bartersmart.co.th/",
+    "description": "The medium token used for products or goods exchange within Barter Smart Community.",
+    "explorer": "https://etherscan.io/address/0xb982fad15538647743b983f4aa5deaf8266e0d67",
+    "type": "ERC20",
+    "symbol": "BIGP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb982fad15538647743b983f4aa5deaf8266e0d67",
+    "tags": [
+        "utility token"
+    ],
+    "links": [
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/bartersmartth"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://bartersmart.co.th/BIGP/wlist.php"
+        }
+    ]
+}
